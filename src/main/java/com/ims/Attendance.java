@@ -14,4 +14,5 @@ public class Attendance {
 	String timeInString;
 	String timeOutString;
 
+	Enrollment addEnrollment = new Enrollment();
 }

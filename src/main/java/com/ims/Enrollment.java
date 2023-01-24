@@ -12,4 +12,7 @@ public class Enrollment {
 	String studentId;
 	String staffId;
 
+	Course addEnrollmentCourse = new Course();
+	ComputerScience addEnrollment = new ComputerScience();
+	Teacher assignTeacher = new Teacher();
 }

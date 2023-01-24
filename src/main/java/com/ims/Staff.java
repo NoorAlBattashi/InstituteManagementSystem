@@ -3,17 +3,24 @@
  */
 package com.ims;
 
+import java.util.ArrayList;
+
 /**
  * @author LAP-9
  *
  */
 public class Staff {
-	// The private instance variables
-    String staffId;
-	String staffName;
-	int phoneNum;
-	String address;
+    public String staffId;
+	public String staffName;
+	public int phoneNum;
+	public String address;
 	
-	//method
+	
+//	public ArrayList<String[]> addStaff() {
+//		ArrayList<String[]> addArrayList = new ArrayList<String[]>();
+//		return addArrayList;
+//	}
+	public void addStaff() {
+}
 	
 }
