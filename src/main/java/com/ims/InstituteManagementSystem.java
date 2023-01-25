@@ -14,6 +14,10 @@ import javax.naming.AuthenticationException;
  */
 public class InstituteManagementSystem {
 
+	public InstituteManagementSystem () {
+		System.out.println("Hello to the Institute Management System \n");
+	}
+	
 	public static void main(String[] args) {
 
 		InstituteManagementSystem ins = new InstituteManagementSystem();

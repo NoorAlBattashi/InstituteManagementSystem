@@ -15,7 +15,6 @@ public class Staff {
 	public int phoneNum;
 	public String address;
 	
-	
 //	public ArrayList<String[]> addStaff() {
 //		ArrayList<String[]> addArrayList = new ArrayList<String[]>();
 //		return addArrayList;

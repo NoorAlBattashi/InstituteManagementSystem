@@ -10,14 +10,12 @@ import java.util.ArrayList;
  *
  */
 public class Student {
-	String studentId;
-	String studentName;
-	int phoneNum;
-	String address;
+	private String studentId;
+	private String studentName;
+	private int phoneNum;
+	private String address;
 	
-	//method
-		public static ArrayList<String[]> addStaff(String studentId, String studentName,int phoneNum, String address) {
-			ArrayList<String[]> addArrayList = new ArrayList<String[]>();
-			return addArrayList;
-		}
+	public void registerMembers() {
+		System.out.print("student added");
+	}
 }
